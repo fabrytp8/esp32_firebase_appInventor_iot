@@ -7,8 +7,8 @@ FirebaseData firebaseData;       // Objeto para enviar/recibir datos
 
 // URL y clave de Firebase (Realtime Database)
 // IMPORTANTE: Esta es la URL completa del proyecto y el token de acceso
-#define FIREBASE_HOST "https://sistfoto-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "vi1UxWnBMdoGX5J3qccEgqMr9zOOtJoZzmW3OrFG"
+#define FIREBASE_HOST "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#define FIREBASE_AUTH "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 // Credenciales WiFi
 #define WIFI_SSID "Wokwi-GUEST"
