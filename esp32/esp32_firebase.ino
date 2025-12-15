@@ -70,7 +70,6 @@ void loop() {
     Serial.println(w);
   }
 
-  // Lectura ejemplo (comentado):
-  // int x = Firebase.getInt(firebaseData, "/CASA/DORMITORIO/FOCO1");
-  // Serial.println(x);
+  // Lectura ejemplo:
+
 }
